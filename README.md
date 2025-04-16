@@ -26,10 +26,7 @@ cd backend
 ### Part 2 - run
 ./gradlew bootRun
 
-### 3. Run frontend (React)
-cd frontend
-
-### Part 1 - build
+### 3. Run frontend (React) Part 1 - build
 npm install
 
 ### Part 2 - run
